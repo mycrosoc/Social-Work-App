@@ -45,12 +45,12 @@ import {
 
 // ---- 1) Paste your project's config here ---------------------------------
 const firebaseConfig = {
-  apiKey: "REPLACE_ME",
-  authDomain: "REPLACE_ME.firebaseapp.com",
-  projectId: "REPLACE_ME",
-  storageBucket: "REPLACE_ME.appspot.com",
-  messagingSenderId: "REPLACE_ME",
-  appId: "REPLACE_ME",
+  apiKey: "AIzaSyBoKn4MP7vmgZEBRuhBoApIJiotdcJB_V4",
+  authDomain: "social-worker-d2519.firebaseapp.com",
+  projectId: "social-worker-d2519",
+  storageBucket: "social-worker-d2519.firebasestorage.app",
+  messagingSenderId: "617751061380",
+  appId: "1:617751061380:web:16f709a0368090303933d1",
 };
 // ---------------------------------------------------------------------------
 
